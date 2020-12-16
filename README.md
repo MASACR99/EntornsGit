@@ -1,0 +1,2 @@
+# EntornsGit
+Tasca 1
